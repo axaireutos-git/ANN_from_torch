@@ -37,7 +37,7 @@ The model is trained using the `L1Loss` function, and the `Adamax` optimizer is 
 ## Usage
 1. Run the main script to train the neural network and visualize the results:
    ```bash
-   python main.py
+   ANN_from_torch2.ipynb
    ```
 
 2. The training loop runs for 100,000 epochs, and the loss is recorded to monitor the performance.
