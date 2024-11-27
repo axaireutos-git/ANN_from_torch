@@ -7,10 +7,8 @@ This repository contains a Python project that uses a neural network to model an
 - [Data](#data)
 - [Model Architecture](#model-architecture)
 - [Dependencies](#dependencies)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to train a neural network to predict the response of a dynamic system given certain input conditions. The neural network is trained on a set of measured data points and then used to make predictions, which are visualized and compared with the actual system response.
